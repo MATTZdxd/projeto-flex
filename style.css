@@ -1,0 +1,17 @@
+.background{
+    background-color: rgba(95, 93, 93, 0.178);
+}
+
+.item1{
+    background-color: rgb(230, 44, 11);
+}
+.item2{
+    background-color: rgb(251, 255, 0);
+}
+.item3{
+    background-color: rgb(94, 255, 0);
+}
+
+.altura{
+    height: 150px;
+}
